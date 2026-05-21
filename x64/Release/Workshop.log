@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  COPY.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\hazwan\source\repos\SEM 4\Workshop\Workshop\Main.cpp(351): warning C4715: 'numberOfDays': not all control paths return a value
+C:\Users\hazwan\source\repos\SEM 4\Workshop\Workshop\Main.cpp(450): warning C4715: 'Payment': not all control paths return a value
+  All 295 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Workshop.vcxproj -> C:\Users\hazwan\source\repos\SEM 4\Workshop\x64\Release\Workshop.exe
